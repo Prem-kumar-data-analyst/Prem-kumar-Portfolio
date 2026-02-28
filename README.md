@@ -1,37 +1,37 @@
 
-🚀 Prem Kumar – Data Analyst Portfolio
+**🚀 Prem Kumar – Data Analyst Portfolio**
 
 This repository contains my personal portfolio website built using HTML, CSS, and JavaScript. It showcases my data analytics projects, technical skills, and professional background.
 
-👨‍💻 About Me
+**👨‍💻 About Me**
 
 I am a passionate Data Analyst focused on transforming raw data into meaningful insights. I specialize in building interactive dashboards and analytical reports using Power BI, SQL, and Excel.
 
-📊 Featured Projects
-🔹 Road Accident Analysis Dashboard
+**📊 Featured Projects**
+**🔹 Road Accident Analysis Dashboard**
 
 An interactive Power BI dashboard analyzing accident trends, casualty severity, and location-based insights to identify risk patterns.
 
-🔹 Customer Behavior Analysis
+**🔹 Customer Behavior Analysis**
 
 A dynamic data visualization project analyzing customer purchasing behavior, revenue trends, and product performance.
 
-🛠 Technical Skills
+**🛠 Technical Skills**
 
-Data Visualization: Power BI, Excel Dashboards
+**Data Visualization:** Power BI, Excel Dashboards
 
-Data Analysis: SQL, Excel, Python (Pandas), Google Sheets
+**Data Analysis:** SQL, Excel, Python (Pandas), Google Sheets
 
-Data Modeling & ETL: Power Query, DAX, Star Schema Design
+**Data Modeling & ETL:** Power Query, DAX, Star Schema Design
 
-🌐 Live Portfolio
+**🌐 Live Portfolio**
 
-👉 (Add your GitHub Pages live link here)
+**👉 https://prem-kumar-data-analyst.github.io/Prem-kumar-Portfolio/**
 
-📬 Connect With Me
+**📬 Connect With Me**
 
-LinkedIn: https://www.linkedin.com/in/premkumar-dataanalyst
+**LinkedIn:** https://www.linkedin.com/in/premkumar-dataanalyst
 
-GitHub: https://github.com/Prem-kumar-data-analyst
+**GitHub:** https://github.com/Prem-kumar-data-analyst
 
-Email: prem33672@gmail.com
+**Email:** prem33672@gmail.com
